@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectrumMnemonic", "ElectrumMnemonic\ElectrumMnemonic.csproj", "{3B6C88C6-4AF0-43E5-B556-8E51BB0461E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectrumMnemonic.Test", "ElectrumMnemonic.Test\ElectrumMnemonic.Test.csproj", "{C0F0F47F-0C57-40B6-91EF-E4F76FAE0D64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B6C88C6-4AF0-43E5-B556-8E51BB0461E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B6C88C6-4AF0-43E5-B556-8E51BB0461E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B6C88C6-4AF0-43E5-B556-8E51BB0461E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B6C88C6-4AF0-43E5-B556-8E51BB0461E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0F0F47F-0C57-40B6-91EF-E4F76FAE0D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F0F47F-0C57-40B6-91EF-E4F76FAE0D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F0F47F-0C57-40B6-91EF-E4F76FAE0D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F0F47F-0C57-40B6-91EF-E4F76FAE0D64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <RootNamespace>NokitaKaze.ElectrumMnemonic</RootNamespace>
+        <TargetFramework>netstandard2.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="NBitcoin" Version="5.0.58" />
+      <PackageReference Include="NokitaKaze.Base58Check" Version="0.4.2" />
+    </ItemGroup>
+
+</Project>
